@@ -1,6 +1,6 @@
 import random
 
-r_words=['triangle','Harsha','school','ego']
+r_words=['triangle','github','school','ego']
 word=''
 w_c=''
 w_w=['a','e','i','o','u']
